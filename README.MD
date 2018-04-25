@@ -1,5 +1,5 @@
 # GHDL 0.35
-VHDL-Code auf Windows Kommandozeile (ohne FPGA, ohne Modelsim)
+VHDL-Code auf Windows Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
 
 Installation:
 * Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation zum Suchpfade setzen)
