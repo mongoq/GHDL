@@ -14,7 +14,7 @@ Beispiele:
 * Counter (zählt bis 255)
 * Hello World (Stringausgabe) Programm - http://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
-GTK-Wave (ungetestet)
+GTK-Wave Logikpegel Veranschaulichung (ungetestet)
 * http://pld.ttu.ee/~vadim/itk_bak/lab_1/quickstart.html
 * http://ghdl.free.fr/site/pmwiki.php?n=Main.WaveViewer
 * https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html
