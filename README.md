@@ -1,4 +1,4 @@
-# GHDL_0.33
+# GHDL 0.33
 VHDL-Code auf Windows Kommandozeile (ohne FPGA, ohne Modelsim)
 
 Installation:
