@@ -1,7 +1,7 @@
 # GHDL 0.35
 VHDL-Code auf Windows Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
 
-Uni-Doku: 
+Uni-Level-Doku: 
 * http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf
 
 Installation:
@@ -14,7 +14,7 @@ Beispiele:
 * Counter (zählt bis 255)
 * Hello World (Stringausgabe) Programm - http://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
-GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet)
+GTK-Wave "Logikpegel-Veranschaulichung" - Todo: Hello World Projekt
 * http://pld.ttu.ee/~vadim/itk_bak/lab_1/quickstart.html
 * http://ghdl.free.fr/site/pmwiki.php?n=Main.WaveViewer
 * https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html
