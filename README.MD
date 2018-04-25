@@ -1,4 +1,4 @@
-# GHDL 0.33
+# GHDL 0.35
 VHDL-Code auf Windows Kommandozeile (ohne FPGA, ohne Modelsim)
 
 Installation:
@@ -8,4 +8,4 @@ Installation:
 
 Beispiele: 
 * Erweiterter Double-Dabble Algorithmus (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
-* Counter (bis 255)
+* Counter (zählt bis 255)
