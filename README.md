@@ -6,5 +6,5 @@ Installation:
 * Neueste Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden)
 
 Beispiele: 
-* Double-Dabble Algorithmus - https://en.wikipedia.org/wiki/Double_dabble
-* Counter
+* Erweiterter Double-Dabble Algorithmus (zählt bis dezimal 9999) - https://en.wikipedia.org/wiki/Double_dabble
+* Counter (bis 255)
