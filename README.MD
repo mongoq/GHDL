@@ -10,7 +10,7 @@ Installation:
 * Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases (Todo: Welcher Typ davon, testen (!))
 
 Beispiele: 
-* Erweiterter Double-Dabble Algorithmus (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
+* Erweiterter **Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
 * Counter (zählt bis 255)
 * Hello World (Stringausgabe) Programm - http://ghdl.readthedocs.io/en/latest/using/QuickStartGuide.html
 
