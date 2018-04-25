@@ -5,7 +5,7 @@ Uni-Level-Doku:
 * http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf
 
 Installation:
-* Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation zum Suchpfade setzen)
+* Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation um Suchpfade zu setzen)
 * Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden - getestet (!))
 * Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases (Todo: Welcher Typ davon, testen (!))
 
