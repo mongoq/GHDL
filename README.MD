@@ -1,7 +1,7 @@
 # GHDL 0.35
 VHDL-Code auf Windows Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
 
-Doku: 
+Uni-Doku: 
 * http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf
 
 Installation:
