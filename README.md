@@ -1,8 +1,10 @@
-# GHDL_1.xy
-VHDL-Code unter Windows Kommandozeile (ohne FPGA, ohne Modelsim)
+# GHDL_0.33
+VHDL-Code auf Windows Kommandozeile (ohne FPGA, ohne Modelsim)
 
 Installation:
-* TODO
+* Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation zum Suchpfade setzen)
+* Neueste Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden)
 
-Beispiel: 
-* Double-Dabble Algorithmus
+Beispiele: 
+* Double-Dabble Algorithmus - https://en.wikipedia.org/wiki/Double_dabble
+* Counter
