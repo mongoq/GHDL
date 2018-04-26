@@ -7,7 +7,7 @@ Unilevel-Doku:
 Installation:
 * Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation um Suchpfade zu setzen)
 * Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden/tauschen - getestet (!))
-* Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases - ghdl-0.35-mcode-windows.zip
+* Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases --> ghdl-0.35-mcode-windows.zip
 
 Beispiele: 
 * Erweiterter **Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
