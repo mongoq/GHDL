@@ -1,3 +1,3 @@
-# Hello World! als Stringausgabe
+# 'Hello World' Stringausgabe
 
 ... easy as that ;-)
