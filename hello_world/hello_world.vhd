@@ -10,7 +10,7 @@
         process
            variable l : line;
         begin
-           write (l, String'("Hello world!"));
+           write (l, String'("Hello World!"));
            writeline (output, l);
            wait;
         end process;
