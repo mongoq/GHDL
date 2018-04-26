@@ -12,10 +12,10 @@ Installation (Windows):
 Installation (Linux / Ubuntu):
 * Ungetestet (GHDL Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
 
-Beispiele: 
-* Erweiterter **Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch) --> [Wikipedia](https://en.wikipedia.org/wiki/Double_dabble)
-* Counter **Double-Dabble-Algorithmus** (zählt bis 255)
-* Hello World! (Stringausgabe)
+Beispiele (Todo: Ordnernamen): 
+* **Hello World!** (Stringausgabe)
+* **Double-Dabble-Algorithmus** (zählt bis 255) --> [Wikipedia](https://en.wikipedia.org/wiki/Double_dabble)
+* **Erweiterter Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch)
 
 <!-- GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet):
 * http://pld.ttu.ee/~vadim/itk_bak/lab_1/quickstart.html
