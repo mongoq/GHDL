@@ -7,7 +7,7 @@ Kurze Doku:
 Installation (Windows):
 * Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation nutzen, um Suchpfade zu setzen)
 <!-- * Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden/tauschen - getestet (!)) -->
-* Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases --> ghdl-0.35-mcode-windows.zip (in angegebenes Installationsverzeichnis kopieren / Version 0.29.1 Dateien ersetzen)
+* **Version ohne Installer (neueste GHDL Version 0.35)**: https://github.com/ghdl/ghdl/releases --> ghdl-0.35-mcode-windows.zip (in angegebenes Installationsverzeichnis kopieren / Version 0.29.1 Dateien ersetzen)
 
 Installation (Linux / Ubuntu):
 * Ungetestet (GHDL Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
