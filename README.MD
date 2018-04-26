@@ -14,7 +14,7 @@ Installation (Linux / Ubuntu):
 
 Beispiele (Todo: Ordnernamen): 
 * **Hello World!** (Stringausgabe)
-* **Double-Dabble-Algorithmus** (zählt bis dezimal 255) --> [Wikipedia](https://en.wikipedia.org/wiki/Double_dabble)
+* **Double-Dabble Algorithmus** (zählt bis dezimal 255) --> [Wikipedia](https://en.wikipedia.org/wiki/Double_dabble)
 * **Erweiterter Double-Dabble Algorithmus** (zählt bis dezimal 9999)
 
 <!-- GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet):
