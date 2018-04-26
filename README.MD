@@ -11,11 +11,11 @@ Installation:
 
 Beispiele: 
 * Erweiterter **Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
-* Counter (zählt bis 255)
+* Counter (Double Dabble ... zählt bis 255)
 * Hello World! (Stringausgabe)
 
 <!-- GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet):
 * http://pld.ttu.ee/~vadim/itk_bak/lab_1/quickstart.html
 * http://ghdl.free.fr/site/pmwiki.php?n=Main.WaveViewer
-* https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html -->
-![alt text](https://airtower.files.wordpress.com/2010/11/gtkwave-fulladd.png "GTK-Wave")
+* https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html
+![alt text](https://airtower.files.wordpress.com/2010/11/gtkwave-fulladd.png "GTK-Wave") -->
