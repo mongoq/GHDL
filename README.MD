@@ -10,7 +10,7 @@ Installation (Windows):
 * Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases --> ghdl-0.35-mcode-windows.zip (in angegebenes Installationsverzeichnis kopieren / Version 0.29.1 Dateien ersetzen)
 
 Installation (Linux / Ubuntu):
-* Ungetestet (Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
+* Ungetestet (GHDL Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
 
 Beispiele: 
 * Erweiterter **Double-Dabble Algorithmus** (zählt bis dezimal 9999 bzw. vier Stellen hoch) - https://en.wikipedia.org/wiki/Double_dabble
