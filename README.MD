@@ -1,6 +1,8 @@
 # GHDL 0.35
 VHDL-Code auf Windows / Linux Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
 
+**TODO: UMKOPIEREN**
+
 Kurze Doku: 
 * [GHDL / GTKWave – VHDL-Compiler/-Simulator](http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf) 
 
