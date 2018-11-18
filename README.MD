@@ -1,5 +1,5 @@
 # GHDL 0.35
-VHDL-Code auf Windows und Linux-Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
+VHDL-Code auf Windows und Linux-Kommandozeile ausführen (kein FPGA oder Modelsim)
 
 <!-- ![alt text](https://i.ytimg.com/vi/52outPNHKnk/maxresdefault.jpg | width=100) -->
 
