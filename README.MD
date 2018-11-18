@@ -1,6 +1,10 @@
 # GHDL 0.35
 VHDL-Code auf Windows und Linux-Kommandozeile ausführen (ohne FPGA, ohne Modelsim)
 
+![alt text](https://i.ytimg.com/vi/52outPNHKnk/maxresdefault.jpg "GHDL")
+
+* [Video](https://www.youtube.com/watch?v=52outPNHKnk) 
+
 Kurze Doku: 
 * [GHDL / GTKWave – VHDL-Compiler/-Simulator](http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf) 
 
@@ -18,7 +22,10 @@ Beispiele:
 * **Erweiterter Double-Dabble Algorithmus** (zählt bis dezimal 9999)
 
 GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet):
+
 * http://pld.ttu.ee/~vadim/itk_bak/lab_1/quickstart.html
 * http://ghdl.free.fr/site/pmwiki.php?n=Main.WaveViewer
 * https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html
+
 ![alt text](https://airtower.files.wordpress.com/2010/11/gtkwave-fulladd.png "GTK-Wave")
+https://i.ytimg.com/vi/52outPNHKnk/maxresdefault.jpg
