@@ -3,7 +3,7 @@ VHDL-Code auf Windows und Linux-Kommandozeile ausführen (ohne FPGA, ohne Models
 
 ![alt text](https://i.ytimg.com/vi/52outPNHKnk/maxresdefault.jpg "GHDL")
 
-* [Video](https://www.youtube.com/watch?v=52outPNHKnk) 
+[Video](https://www.youtube.com/watch?v=52outPNHKnk) 
 
 Kurze Doku: 
 * [GHDL / GTKWave – VHDL-Compiler/-Simulator](http://www3.cs.fau.de/Lehre/CPU/SS2011/vhdl-ghdl.pdf) 
