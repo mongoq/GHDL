@@ -16,6 +16,9 @@ Installation (Windows):
 Installation (Linux / Ubuntu):
 * Ungetestet (GHDL Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
 
+Web basiert:
+* https://www.edaplayground.com/
+
 Beispiele: 
 * **Hello World!** (Stringausgabe)
 * **Double-Dabble Algorithmus** (zählt bis dezimal 255) ([Wikipedia](https://en.wikipedia.org/wiki/Double_dabble))
