@@ -1,4 +1,4 @@
-# GHDL 0.35
+# GHDL 0.36
 VHDL-Code auf Windows und Linux-Kommandozeile ausführen (kein FPGA oder Modelsim)
 
 <!-- ![alt text](https://i.ytimg.com/vi/52outPNHKnk/maxresdefault.jpg | width=100) -->
@@ -11,7 +11,7 @@ VHDL-Code auf Windows und Linux-Kommandozeile ausführen (kein FPGA oder Modelsi
 Installation (Windows):
 * Nullsoft Installer (GHDL Version 0.29.1): http://ghdl.free.fr/download.html (Installation nutzen, um Suchpfade zu setzen)
 <!-- * Version ohne Installer (GHDL Version 0.33): https://sourceforge.net/projects/ghdl-updates/files/Builds/ghdl-0.33/ (ghdl.exe verwenden/tauschen - getestet (!)) -->
-* Version ohne Installer (neueste GHDL Version 0.35): https://github.com/ghdl/ghdl/releases --> ghdl-0.35-mcode-windows.zip (in angegebenes Installationsverzeichnis kopieren / Version 0.29.1 Dateien und Ordner ersetzen)
+* Version ohne Installer (neueste GHDL Version 0.36): https://github.com/ghdl/ghdl/releases --> ghdl-0.36-mcode-windows.zip (in angegebenes Installationsverzeichnis kopieren / Version 0.29.1 Dateien und Ordner ersetzen)
 
 Installation (Linux / Ubuntu):
 * Ungetestet (GHDL Version 0.33) - https://theintobooks.wordpress.com/2016/08/24/installing-ghdl-from-source-on-ubuntu-16-04/
