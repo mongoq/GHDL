@@ -1,5 +1,5 @@
-# 'Hello World!' Stringausgabe
+# 'Hello World!' String Output
 
 **... easy as that ;-)**
 
-Läuft nicht auf *echtem* FPGA ... Code ist nicht synthetisierbar, da dort per se keine Textausgabe möglich ist.
+Doesn't run on a real FPGA ...
