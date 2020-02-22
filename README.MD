@@ -33,6 +33,8 @@ GTK-Wave "Logikpegel-Veranschaulichung" (ungetestet):
 * http://ghdl.free.fr/site/pmwiki.php?n=Main.WaveViewer
 * https://lauri.xn--vsandi-pxa.com/hdl/gtkwave.html
 
+* http://enos.itcollege.ee/~vpesonen/lisa/lab_example.html (top!)
+
 ---
 
 ![alt text](https://airtower.files.wordpress.com/2010/11/gtkwave-fulladd.png "GTK-Wave")
